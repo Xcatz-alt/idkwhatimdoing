@@ -1,5 +1,6 @@
 import mysql.connector
-
+#ganti password sama usernya sesuai user yg ko buat pas pertama kali install
+#data basenya ganti sesuai nama file database ko
 nama_db = {
     'user' : 'root',
     'password' : 'password',
